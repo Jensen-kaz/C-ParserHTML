@@ -1,0 +1,11 @@
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\bin\Debug\ParserHTML.exe.config
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\bin\Debug\ParserHTML.exe
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\bin\Debug\ParserHTML.pdb
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\bin\Debug\AngleSharp.dll
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\bin\Debug\AngleSharp.xml
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\obj\Debug\ParserHTML.csprojResolveAssemblyReference.cache
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\obj\Debug\ParserHTML.Form1.resources
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\obj\Debug\ParserHTML.Properties.Resources.resources
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\obj\Debug\ParserHTML.csproj.GenerateResource.Cache
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\obj\Debug\ParserHTML.exe
+F:\Develop\visual studio projects\C#\ParserHTML\ParserHTML\obj\Debug\ParserHTML.pdb
